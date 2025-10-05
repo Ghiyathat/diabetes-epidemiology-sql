@@ -50,18 +50,18 @@ Population Health:
 - What is the overall diabetes prevalence in the dataset?
 - How are key health metrics distributed between between diabetic and non diabetic groups?
 Risk Factor Investigation:
-- How strongly do glucose level correlate with diabetes outcome?
+- How strongly do glucose level correlate with diabetes outcomes?
 - Does blood pressure show signifigant comorbidity with diabetes?
-- What is the relationship between genetic predisposition and diabetes likelihood?
+- What is the relationship between genetic predisposition (pedegree function) and diabetes likelihood?
 - How does the number of pregnancies relate to diabetes risk?
 Demographic Patterns:
-- How does diabetes prevalence change across dofferent groups?
-- What BMI show the highest diabetes burden?
+- How does diabetes prevalence change across different age groups?
+- What BMI categories show the highest diabetes burden?
 - Can we identify specific high risk demographic profiles?
 
   ### Methodological Approach
-  SQL-Based Analysis: Leveraged CASE statements and aggregation methods
-  Statistical Comparisons: Used average comparisons, prevalence calculations, and distribution analysis
+  - SQL-Based Analysis: Leveraged CASE statements and aggregation methods
+  - Statistical Comparisons: Used average comparisons, prevalence calculations, and distribution analysis
 
   ```sql
   SELECT*
@@ -86,7 +86,7 @@ Demographic Patterns:
 - Blood Pressure: Hypertension is a significant comorbidity. Prevalence rises from 31.6% in those with normal BP to 49.2% in stage 1 Hypertension
 3. Impact of Non-Modifiable Risk Factors:
 - Age: Prevalence rises steadily with age, peaking at 59.7% for the 50-59 age group, before a notable drop in the 60+ cohorts. This drop could be due to survival bias or a smaller sample size.
-- Genetic Predisposition: The diabetes Pedegree Function shows a strong association. Individuals with a very high genetic risk have double the prevalence(54.6%) of those with low genetic risk (27.0%)
+- Genetic Predisposition: The diabetes Pedegree Function shows a strong association. Individuals with a very high genetic risk have double the prevalence(54.6%) than those with low genetic risk (27.0%)
 4. Pregnancy and Diabetes Risk:
 - The relationship is non-linear.
 
