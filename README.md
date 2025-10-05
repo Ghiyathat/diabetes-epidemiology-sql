@@ -91,8 +91,8 @@ Demographic Patterns:
 - The relationship is non-linear.
 
 ### Recommendations
-Targeted Screening programs
-Tiered Intervention strategies
+- Targeted Screening programs
+- Tiered Intervention strategies
 
 ### Limitations
 Key confounders like diet, socioeconomic status, and smoking are not included in this dataset.
