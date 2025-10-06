@@ -30,7 +30,7 @@ Diabetes Data: The primary dataset used for this analysis is the [diabetes.csv](
 - Sorting
 
 ### Exploratory Data Analysis
-This exploratory analysis examines a clinical diabetes dataset to identify key risk factors, prevalence patterns, and demographicrelationships associated with diabetes outcomes. The analysis follows a structured approach from basic descriptive statistics to advanced cohort segmentation.
+This exploratory analysis examines a clinical diabetes dataset to identify key risk factors, prevalence patterns, and demographic relationships associated with diabetes outcomes. The analysis follows a structured approach from basic descriptive statistics to advanced cohort segmentation.
 
 ### Analysis Framework
 1. Descriptive Statistics & Population Health
@@ -46,14 +46,17 @@ This exploratory analysis examines a clinical diabetes dataset to identify key r
 - BMI Stratification: Categorized risk by body mass index ranges
 
 ### Key Analytical Questions
+
 Population Health:
 - What is the overall diabetes prevalence in the dataset?
 - How are key health metrics distributed between between diabetic and non diabetic groups?
+
 Risk Factor Investigation:
 - How strongly do glucose level correlate with diabetes outcomes?
 - Does blood pressure show signifigant comorbidity with diabetes?
 - What is the relationship between genetic predisposition (pedegree function) and diabetes likelihood?
 - How does the number of pregnancies relate to diabetes risk?
+
 Demographic Patterns:
 - How does diabetes prevalence change across different age groups?
 - What BMI categories show the highest diabetes burden?
@@ -76,6 +79,7 @@ Demographic Patterns:
   FROM idkportfolio.diabetes
   GROUP BY bmi_category
   ORDER BY diabetes_prevalence_percent DESC;
+  
 ### Results
 1. Demographic and Clinical profile:
 - Diabetic individuals are, on average, older(37.1 vs 31.2 years) and have a higher BMI (35.1 VS 30.3) compared to non diabetics
