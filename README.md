@@ -92,14 +92,37 @@ Demographic Patterns:
 - Age: Prevalence rises steadily with age, peaking at 59.7% for the 50-59 age group, before a notable drop in the 60+ cohorts.
 - Genetic Predisposition: The diabetes Pedegree Function shows a strong association. Individuals with a very high genetic risk have double the prevalence(54.6%) than those with low genetic risk (27.0%)
 4. Pregnancy and Diabetes Risk:
-- The relationship is non-linear.
+- The relationship is non-linear. While prevalence is high for nulliparous women (0 pregnancies: 34.2%), it shows a sharp increase in women with 7 or more pregnancies (55.6% - 100%), indicating that high parity may be a significant risk factor.
 
 ### Recommendations
-- Targeted Screening programs
-- Tiered Intervention strategies
+1. Targeted Screening Programs:
+
+Priority Groups: Implement mandatory annual screening for individuals who are obese (BMI >30), over the age of 40, or have pre-diabetic glucose levels (100-125 mg/dL).
+
+High-Risk Pregnancy Care: Women with 7 or more pregnancies should be enrolled in a long-term gestational diabetes monitoring and prevention program.
+
+2. Tiered Intervention Strategies:
+
+Primary Prevention (For Low-Risk Groups):
+- Focus on community-wide nutritional education and physical activity programs to maintain healthy BMI and glucose levels.
+
+Secondary Prevention (For High-Risk Groups): 
+- Launch intensive lifestyle intervention programs for individuals with multiple risk factors (e.g., obese, pre-diabetic, and with high genetic risk), including dietary counseling and diabetes prevention education.
+
+Tertiary Intervention (For Diabetic Individuals):
+-  Ensure access to affordable medication, regular complication screening (especially for hypertension), and diabetes self-management education.
+
+3. Resource Allocation:
+
+- Direct resources and specialized care towards middle-aged and older adult populations (40-59 years), where the disease burden is highest.
+- Develop specific educational materials for women of childbearing age about the long-term diabetes risks associated with high parity.
 
 ### Limitations
 Key confounders like diet, socioeconomic status, and smoking are not included in this dataset.
+
+### Conclusion
+
+This analysis successfully identifies clear, actionable risk strata within the population. By focusing interventions on individuals with high BMI, elevated glucose, and in older age brackets, public health initiatives can be optimized for maximum impact. Future research should employ longitudinal studies to establish causality and incorporate lifestyle and socioeconomic data to build a more holistic model of diabetes risk.
 
 ### References
 [pima-indians-diabetes-csv](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv&ved=2ahUKEwimxI3th4uQAxUVWUEAHf4RD4cQFnoECDwQAQ&sqi=2&usg=AOvVaw1gXtYDFa_BZ_YLLcCDg0sF)
