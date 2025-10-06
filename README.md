@@ -89,7 +89,7 @@ Demographic Patterns:
 - BMI(Body Mass Index): A clear dose-response relationship exists. Diabetes prevalence is nearly seven times higher in obese individuals (46.4%) compared to those with a normal BMI (6.9%)
 - Blood Pressure: Hypertension is a significant comorbidity. Prevalence rises from 31.6% in those with normal BP to 49.2% in stage 1 Hypertension
 3. Impact of Non-Modifiable Risk Factors:
-- Age: Prevalence rises steadily with age, peaking at 59.7% for the 50-59 age group, before a notable drop in the 60+ cohorts. This drop could be due to survival bias or a smaller sample size.
+- Age: Prevalence rises steadily with age, peaking at 59.7% for the 50-59 age group, before a notable drop in the 60+ cohorts.
 - Genetic Predisposition: The diabetes Pedegree Function shows a strong association. Individuals with a very high genetic risk have double the prevalence(54.6%) than those with low genetic risk (27.0%)
 4. Pregnancy and Diabetes Risk:
 - The relationship is non-linear.
