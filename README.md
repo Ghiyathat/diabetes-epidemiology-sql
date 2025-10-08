@@ -122,7 +122,7 @@ Key confounders like diet, socioeconomic status, and smoking are not included in
 
 ### Conclusion
 
-This analysis successfully identifies clear, actionable risk strata within the population. By focusing interventions on individuals with high BMI, elevated glucose, and in older age brackets, public health initiatives can be optimized for maximum impact. Future research should employ longitudinal studies to establish causality and incorporate lifestyle and socioeconomic data to build a more holistic model of diabetes risk.
+This analysis successfully identifies clear, actionable risk strata within the population. By focusing interventions on individuals with high BMI, elevated glucose, and in older age brackets, public health initiatives can be optimized for maximum impact. 
 
 ### References
 [pima-indians-diabetes-csv](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv&ved=2ahUKEwimxI3th4uQAxUVWUEAHf4RD4cQFnoECDwQAQ&sqi=2&usg=AOvVaw1gXtYDFa_BZ_YLLcCDg0sF)
